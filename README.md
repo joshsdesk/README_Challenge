@@ -1,4 +1,4 @@
-# Node Readme Generator
+# node Readme Generator
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
@@ -37,7 +37,7 @@ This project is licensed under the MIT license.
 
 ## Contributing
 
-create a new branch, and submit a pull request."
+create a new branch, and submit a pull request
 
 ## Tests
 
@@ -50,10 +50,10 @@ npm test
 
 If you have any questions, feel free to contact me:
 - Email: [JoshsDesk@gmail.com](mailto:JoshsDesk@gmail.com)
-- GitHub: [JoshDesk](https://github.com/JoshDesk)
+- GitHub: [JoshsDesk](https://github.com/JoshsDesk)
 
 ## GitHub Repository
 
-Find the project repository at [GitHub Repository](https://github.com/JoshDesk/undefined).
+Find the project repository at [GitHub Repository](https://github.com/JoshsDesk/README_Challenge).
 ---
 

@@ -48,6 +48,11 @@ const questions = [
   },
   {
     type: 'input',
+    name: 'repoName',
+    message: 'What is the name of your GitHub repository?',
+  },
+  {
+    type: 'input',
     name: 'email',
     message: 'What is your email address?',
   },
